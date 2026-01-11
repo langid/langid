@@ -34,8 +34,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=langid&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=langid&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=langid&show_icons=true&theme=dracula&hide_border=true&refresh=1" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=langid&layout=compact&theme=dracula&hide_border=true&refresh=1" height="180" alt="Top Languages" />
 </p>
 
 ---
