@@ -34,10 +34,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/langid/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=langid&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/langid/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=langid&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
   </a>
 </p>
