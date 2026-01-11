@@ -31,11 +31,12 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 Pencapaian Saya</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=langid&show_icons=true&theme=dracula&hide_border=true&refresh=1" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=langid&layout=compact&theme=dracula&hide_border=true&refresh=1" height="180" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=langid&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="langid trophies" />
+  </a>
 </p>
 
 ---
