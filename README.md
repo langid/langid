@@ -31,13 +31,11 @@
 
 ---
 
-<h3 align="center">🏆 Pencapaian Saya</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=langid&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="langid trophies" />
-  </a>
-</p>
+<br/>
 
 ---
 
